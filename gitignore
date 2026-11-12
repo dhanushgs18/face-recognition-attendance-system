@@ -1,0 +1,7 @@
+known_faces/
+test_images/
+attendance.db
+attendance_export.xlsx
+accuracy.csv
+__pycache__/
+*.pyc
